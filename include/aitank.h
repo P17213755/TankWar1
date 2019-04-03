@@ -14,7 +14,7 @@ class AITank : public Tank
 protected:
 	bool visible;
 public:
-	AITank(); //!< Empty construtor
+	AITank(); //!< Empty construtor !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 	void setVisible(){visible = true;} //!< Make the AI tank visible to the player
 	void setInvisible(){visible = false;} //!< Make the AI tank invisible to the player
