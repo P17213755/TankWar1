@@ -1,0 +1,33 @@
+﻿  Map.cpp
+h:\desktop\tankwar-cw\tankwar-cw update\include\node.h(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\map.cpp(105): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\desktop\tankwar-cw\tankwar-cw update\src\map.cpp(132): warning C4018: '<': signed/unsigned mismatch
+  game.cpp
+h:\desktop\tankwar-cw\tankwar-cw update\include\node.h(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(470): warning C4996: 'sf::Text::setColor': was declared deprecated
+  h:\desktop\tankwar-cw\tankwar-cw update\sfml-2.4.1\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(483): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(483): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(490): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(490): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(495): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(495): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(500): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  h:\desktop\tankwar-cw\tankwar-cw update\src\game.cpp(500): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  main.cpp
+h:\desktop\tankwar-cw\tankwar-cw update\include\node.h(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  mariusz.cpp
+h:\desktop\tankwar-cw\tankwar-cw update\include\node.h(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(98): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(107): warning C4101: 'direction': unreferenced local variable
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(162): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(195): warning C4553: '==': result of expression not used; did you intend '='?
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(199): warning C4553: '==': result of expression not used; did you intend '='?
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(357): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(365): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(371): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+h:\desktop\tankwar-cw\tankwar-cw update\src\mariusz.cpp(386): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  tankwar.vcxproj -> H:\Desktop\tankwar-CW\tankwar-CW Update\Debug\tankwar.exe
